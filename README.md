@@ -69,7 +69,7 @@ mv test_file Documents
 <img width="699" alt="7a mv" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/dd924742-2b08-480b-8e0d-a3fd96af482c">
 
 renames a files
-```
+
 <img width="669" alt="7b mv" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/830cdb62-fea0-4d87-82a1-d3249c1814e2">
 
 

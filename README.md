@@ -257,67 +257,60 @@ man ls
 
 ## 31. echo command
 >this command is a built in utility that displays a line of text or string using the standard output.
-```
+
 <img width="534" alt="echo" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/1555268b-f4e1-47c2-a072-9a0940b4d989">
 
 
 ## 32. zip, unzip command
 >this command will compress files and directories into a zip file, to archive or reduce disk space usage.
-```
-zip first.zip test.txt devops
-```
+
+**`zip first.zip test.txt devops`**
+
 <img width="522" alt="zip" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/491065e7-22cf-48ea-b251-4c619de10ff8">
 
-```
-unzip first.zip
-```
+**`unzip first.zip`**
+
 <img width="676" alt="zip and unzip" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/7763f6ea-a845-4cf9-b35e-757383828566">
 
 ## 33. hostname command
 >this command will show the system's hostname or ip address
-```
-hostname
-```
-```
-hostname -i
-```
-```
-hostname -A
-```
-```
-hostname -alias
-```
+**`hostname`**
+
+**`hostname -i`**
+
+**`hostname -A`**
+
+**`hostname -alias`**
+
 <img width="498" alt="hostname" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/b9e0ddb5-cf41-456c-8ce9-1ea5eb136d63">
 
 ## 34. useradd, userdel commands
 >the useradd command will create a new account
 >the passwd command allows you to add a password
-```
-useradd liwox
-```
+
+**`useradd liwox`**
+
 <img width="510" alt="useradd" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/6052d992-e695-43e9-84a2-9f63a495154a">
 
 ## 35. apt-get command
 >this command handles advanced package tools (APT) in Linux.
 >it lets you retrive information and bundles from authenticated sources.
-```
-apt-get update
-```
+
+**`apt-get update`**
+
 <img width="479" alt="apt- get update" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/dd5aa992-c8b6-4f38-bed8-939df96a093e">
 
 ## 36. nano, vi, jed commands
 >the nano command denotes keywords
-```
-nano liwox.html
-```
+
 <img width="496" alt="nano 1" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/e22f1421-955a-4565-b18b-33edee4d5c4e">
 
 >the vi command works in two modes
  >insert and command: this can edit and create a text file
  >perform operations such as copying, saving, openig and pasting a file.
-```
-vi 
-```
+
+**`vi`** 
+
 <img width="578" alt="nano2" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/dd7970da-89e6-4dda-85c5-a07ed9e9dc00">
 
 <img width="599" alt="nano 3" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/9b45a9a8-3e0d-4d90-b4a7-fc49f54fc623">

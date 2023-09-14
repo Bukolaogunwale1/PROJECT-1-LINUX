@@ -167,8 +167,9 @@ head DevOps.text
 <img width="675" alt="head" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/b4a0eba3-aa53-427a-a323-f62ad2ecf413">
 
 >specify the number of lines to display
-```
+
 ## 18. tail command
+
 >this command displays the last ten lines of a text
 
 <img width="657" alt="tail" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/3dcad3e7-d3f5-4536-a8d0-1208b5bf6a70">

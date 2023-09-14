@@ -139,7 +139,7 @@ df
 ```
 df -m
 ```
-![df](https://github.com/ArmstrongLiwox/LinuxPracticeProject/assets/143335106/882b89e2-ffaa-41d3-bf7c-1970398c976f)
+
 ```
 df -k
 ```

@@ -10,7 +10,7 @@ sudo : superuser do performs tasks requiring administartive or root permissions
 ## 2. pwd command
 this commands finds the path of current working directory
 
-**`pwd**`
+**`pwd`**
 
 <img width="675" alt="pwd" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/75df6f7a-f451-49d3-bf53-3ddb67f17104"
 
@@ -45,14 +45,33 @@ Concatenate.
 <img width="577" alt="cat 1" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/150cb50b-c8a2-4355-8a49-0ac4a71b2dcd">
 
 display files in reverse order
-```
+
 **`tac project`**
-```
+
 <img width="671" alt="cat 2" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/8e683ab0-f922-45f4-8ea4-7b0df9f31133">
 
 merges two files into a third file
+
+**`cat`**
+
+## 6. cp command
+this command copies files, directories and the content of directories
 ```
-cat
+cp project
 ```
+<img width="670" alt="cp" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/852c26db-d393-468c-ab81-88fc31ff1dd8">
+
+ ## 7. mv command
+this command moves and renames files and directories
+ ```
+mv test_file Documents
+```
+<img width="699" alt="7a mv" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/dd924742-2b08-480b-8e0d-a3fd96af482c">
+
+renames a files
+```
+<img width="669" alt="7b mv" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/830cdb62-fea0-4d87-82a1-d3249c1814e2">
+
+
 
 

@@ -233,6 +233,159 @@ wget wordpress.org/latest.zip
 <img width="690" alt="wget latest zip" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/802ecd36-b292-4a77-9e1f-c6025c1c1714">
 
 
+## 28. top
+>this command will display all the running processes and a dynamic real time view of the current system
+```
+top
+```
+<img width="718" alt="top" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/4b350996-6809-4284-8b0b-4bc40be69a8a">
+
+## 29. history command
+>this command will list 500 of previously executed commands allowing you to reuse them without retyping
+```
+history
+```
+<img width="657" alt="history" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/b264e8b6-3ff8-4ef8-adad-8e0a005e3aeb">
+
+## 30. man command
+>this command will provide the user manual of any command or utilities you can run in the terminal including name, description and options.
+```
+man ls
+```
+<img width="751" alt="man" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/ac915828-2776-4899-9743-64e213a49e8e">
+
+## 31. echo command
+>this command is a built in utility that displays a line of text or string using the standard output.
+```
+<img width="534" alt="echo" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/1555268b-f4e1-47c2-a072-9a0940b4d989">
+
+
+## 32. zip, unzip command
+>this command will compress files and directories into a zip file, to archive or reduce disk space usage.
+```
+zip first.zip test.txt devops
+```
+<img width="522" alt="zip" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/491065e7-22cf-48ea-b251-4c619de10ff8">
+
+```
+unzip first.zip
+```
+<img width="676" alt="zip and unzip" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/7763f6ea-a845-4cf9-b35e-757383828566">
+
+## 33. hostname command
+>this command will show the system's hostname or ip address
+```
+hostname
+```
+```
+hostname -i
+```
+```
+hostname -A
+```
+```
+hostname -alias
+```
+<img width="498" alt="hostname" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/b9e0ddb5-cf41-456c-8ce9-1ea5eb136d63">
+
+## 34. useradd, userdel commands
+>the useradd command will create a new account
+>the passwd command allows you to add a password
+```
+useradd liwox
+```
+<img width="510" alt="useradd" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/6052d992-e695-43e9-84a2-9f63a495154a">
+
+## 35. apt-get command
+>this command handles advanced package tools (APT) in Linux.
+>it lets you retrive information and bundles from authenticated sources.
+```
+apt-get update
+```
+<img width="479" alt="apt- get update" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/dd5aa992-c8b6-4f38-bed8-939df96a093e">
+
+## 36. nano, vi, jed commands
+>the nano command denotes keywords
+```
+nano liwox.html
+```
+<img width="496" alt="nano 1" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/e22f1421-955a-4565-b18b-33edee4d5c4e">
+
+>the vi command works in two modes
+ >insert and command: this can edit and create a text file
+ >perform operations such as copying, saving, openig and pasting a file.
+```
+vi 
+```
+<img width="578" alt="nano2" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/dd7970da-89e6-4dda-85c5-a07ed9e9dc00">
+
+<img width="599" alt="nano 3" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/9b45a9a8-3e0d-4d90-b4a7-fc49f54fc623">
+
+## 37. alias, unalias command
+> this command allows you to create a shortcut with the same functionality as a command, file name or text.
+```
+alias dv='devops.text'
+```
+> the unalias command deletes an existing alias
+<img width="674" alt="alias unalias" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/95f0831a-a57d-4e93-9d59-5dfa69b13dca">
+
+```
+unalias dv
+```
+
+## 38. su command
+>the su command allows you to run a program as a different user. it is beneficial for accessing the system through SSH or GUI display when root user is unavailable.
+```
+su
+```
+<img width="738" alt="su" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/4f2aa340-928a-4055-b3d1-facd961c27a3">
+
+
+## 39. htop command
+>this command monitors system resources and server processes
+>htop command has additional features and improvements than the top command
+```
+htop -d
+```
+```
+htop -C
+```
+```
+htop -h
+
+<img width="546" alt="htop" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/1fab462a-b24d-4b4a-8fe6-0537d996feb0">
+
+## 40. ps command
+>this command produces a snapshot of all the processes on your system.
+```
+ps -T
+```
+```
+ps -u
+```
+```
+ps -A
+```
+```
+ps -e
+```
+<img width="452" alt="ps" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/26ec02a7-1a1c-414e-b087-e37143011b7c">
+
+
+
+
+```
+
+
+
+```
+jed liwox.html
+```
+![jed](https://github.com/ArmstrongLiwox/LinuxPracticeProject/assets/143335106/825bb395-42e2-42d4-bf8a-7b83af09f84d)
+
+
+
+
 
 
 

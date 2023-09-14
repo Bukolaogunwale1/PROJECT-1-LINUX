@@ -342,6 +342,7 @@ su
 
 
 ## 39. htop command
+
 >this command monitors system resources and server processes
 >htop command has additional features and improvements than the top command
 ```
@@ -355,33 +356,21 @@ htop -h
 
 <img width="546" alt="htop" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/1fab462a-b24d-4b4a-8fe6-0537d996feb0">
 
+
 ## 40. ps command
 >this command produces a snapshot of all the processes on your system.
-```
-ps -T
-```
-```
-ps -u
-```
-```
-ps -A
-```
-```
-ps -e
-```
+
+**`ps -T`**
+
+**`ps -u`**
+
+
+**`ps -A`**
+
+**`ps -e`**
+
 <img width="452" alt="ps" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/26ec02a7-1a1c-414e-b087-e37143011b7c">
 
-
-
-
-```
-
-
-
-```
-jed liwox.html
-```
-![jed](https://github.com/ArmstrongLiwox/LinuxPracticeProject/assets/143335106/825bb395-42e2-42d4-bf8a-7b83af09f84d)
 
 
 

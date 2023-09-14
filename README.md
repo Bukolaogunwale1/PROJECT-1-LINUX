@@ -330,15 +330,13 @@ alias dv='devops.text'
 > the unalias command deletes an existing alias
 <img width="674" alt="alias unalias" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/95f0831a-a57d-4e93-9d59-5dfa69b13dca">
 
-```
-unalias dv
-```
+**`unalias dv`**
 
 ## 38. su command
 >the su command allows you to run a program as a different user. it is beneficial for accessing the system through SSH or GUI display when root user is unavailable.
-```
-su
-```
+
+**`su`**
+
 <img width="738" alt="su" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/4f2aa340-928a-4055-b3d1-facd961c27a3">
 
 
@@ -346,14 +344,12 @@ su
 
 >this command monitors system resources and server processes
 >htop command has additional features and improvements than the top command
-```
-htop -d
-```
-```
-htop -C
-```
-```
-htop -h
+
+**`htop -d`**
+
+**`htop -C`**
+
+**`htop -h`**
 
 <img width="546" alt="htop" src="https://github.com/Bukolaogunwale1/PROJECT-1-LINUX/assets/122865359/1fab462a-b24d-4b4a-8fe6-0537d996feb0">
 
